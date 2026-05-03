@@ -12,7 +12,8 @@ However even the extracted data is not in a readable format so then I used a php
 
 Then I wrote some Python and Powershell scripts to parse and organize everything into .md files that'd look nice in this page.
 
-
 The story CGs are linked directly from [Estertion's webpage](redive.estertion.win).
 
 The videos that play in the main story aren't included.
+
+You'll also see some stories in Japanese. These were probably meant to be translated for future versions, but well, we know what happened.
